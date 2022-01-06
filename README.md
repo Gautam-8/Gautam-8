@@ -4,7 +4,8 @@ Aspiring Full Stack Web developer, who always enjoyed building and designing new
 
 - 📫 reach out to me at  **hgautambpet@gmail.com**
 
- #### Skills <br />
+
+<h3 align="left">Languages and Tools:</h3>  <br />
 <p>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a> &nbsp; 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> &nbsp;
