@@ -13,7 +13,7 @@ Aspiring Full Stack Web developer, who always enjoyed building and designing new
 </p>
  
 
-<h3><i>Let's Connect !!</i></h3>
+<h3><i>Connect With Me</i></h3>
 
 <a href="https://www.linkedin.com/in/hsgautam/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" /></a>
 
