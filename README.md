@@ -23,7 +23,7 @@ Aspiring Full Stack Web developer, who always enjoyed building and designing new
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gautam-8&show_icons=true&locale=en&theme=highcontrast" alt="Gautam-8" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-8&theme=tokyonight" alt="Gautam-8" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam-8&theme=highcontrast" alt="Gautam-8" /></p>
 
 
