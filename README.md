@@ -2,7 +2,7 @@
 
 Aspiring Full Stack Web developer, who always enjoyed building and designing new things, currently learning MERN stack, data Structures and algorithms at Masai School. During my curriculum I have built various projects that have given me hands on experience in HTML, CSS, Javascript, React, Mongodb, Express JS, Node JS .Looking forward to an exciting opportunity in a challenging role as a full-stack developer.
 
-- 📫 reach out to  me **hgautambpet@gmail.com**
+- 📫 reach out to me at  **hgautambpet@gmail.com**
 
  #### Skills <br />
 <p>
