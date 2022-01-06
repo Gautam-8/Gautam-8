@@ -1,6 +1,6 @@
 <h1 >Hello  I'm Gautam H<img src="https://c.tenor.com/x_rMzbGDJLYAAAAM/emoji-hi.gif" width="35"></h1>
 
--Hello
+
 
  #### Skills <br />
 <p>
