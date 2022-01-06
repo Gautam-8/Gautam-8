@@ -17,7 +17,7 @@ Aspiring Full Stack Web developer, who always enjoyed building and designing new
 
 
 <a href="https://www.linkedin.com/in/hsgautam/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" /></a>
-- 📫 How to reach me **beheraasutosh132@gmail.com**
+- 📫 How to reach me **hgautambpet@gmail.com**
 
 
 
