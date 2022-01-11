@@ -3,7 +3,7 @@
 Aspiring Full Stack Web developer, who always enjoyed building and designing new things, currently learning MERN stack, data Structures and algorithms at Masai School. During my curriculum I have built various projects that have given me hands on experience in HTML, CSS, Javascript, React, Mongodb, Express JS, Node JS .Looking forward to an exciting opportunity in a challenging role as a full-stack developer.
 
 - 📫 reach out to me at  **hgautambpet@gmail.com**
-- 👨‍💻 All of my projects are available at **https://portfolio-main-gqaub6wiv-gautam-8.vercel.app**
+- 👨‍💻 All of my projects are available at **https://portfolio-gautam-8.vercel.app/**
 
 
 <h3 align="left">Languages and Tools:</h3>  <br />
