@@ -14,6 +14,7 @@ Aspiring Full Stack Web developer, who always enjoyed building and designing new
 <a><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a> 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a> &nbsp; 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a> &nbsp; 
+<a><img src="https://www.google.com/search?q=react+logo&rlz=1C1CHBF_enIN962IN962&sxsrf=AOaemvLC3_zHeUtdJEUCRtAGa2PQqxXDKA:1641954283655&tbm=isch&source=iu&ictx=1&vet=1&fir=8IgH0NvjOSUUnM%252Cnfz2qKo0MFLwMM%252C_%253BWDPCa6Z6RBR5NM%252CVar_LIv212P3EM%252C_%253BviJ6CsTiT3pOsM%252CdzSQNmg7y31FRM%252C_%253BsSnOfjSXVSMf4M%252C9LQ0BetK91HdqM%252C_%253B5_nzDIadpA83ZM%252CDLYmFFxQmtDtIM%252C_%253BlThWaxeCM_jmKM%252C95lzsqy1L7kGJM%252C_%253B9bMwnKTBkJfweM%252CZriNJ8EwjKWnCM%252C_%253B3xUSTDqlTXS7iM%252Clkat7ELY-HKAAM%252C_%253BCtMLSYSQR-TD7M%252CNEcL3uRgxlMcqM%252C_%253BowHRllA4OlkZ9M%252C7o-5m_JYERO1XM%252C_%253BFotxQLnVTiGRPM%252C7-rO7sU8PtPb6M%252C_%253BvHcSlGo03wsa3M%252CIBvONQlBOOLejM%252C_%253B1MsjBl--5c1MvM%252Clkat7ELY-HKAAM%252C_%253BaGXc6cFOdfEBMM%252CCIN5OfA4KDqouM%252C_&usg=AI4_-kTyoxaKfe9wPz22UmEGQJCBDyQCrg&sa=X&ved=2ahUKEwjAzcGulKv1AhUeSGwGHborBgUQ9QF6BAgEEAE#imgrc=8IgH0NvjOSUUnM" alt="react" width="60" height="60"/></a> &nbsp; 
 </p>
  
 
