@@ -16,7 +16,7 @@ Aspiring Full Stack Web developer, who always enjoyed building and designing new
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a> &nbsp; 
 <a><img src="https://img.icons8.com/color/480/000000/react-native.png" alt="react" width="60" height="60"/></a> &nbsp; 
 <a><img src="https://i.ibb.co/9smDM6j/pngegg.png" alt="express js" width="60" height="60"/></a> &nbsp; 
-<a><img src="https://www.google.com/search?q=postman+png+icon&rlz=1C1CHBF_enIN962IN962&sxsrf=AOaemvK3k-DsO5UfWiR2vMs4j5P4sXajfA:1641954574169&tbm=isch&source=iu&ictx=1&vet=1&fir=M31jS7h4OonTxM%252CiP3zk3vnb_JueM%252C_%253B4TQ6DmbQ3BRg_M%252CfNv-3ZYAx8vSzM%252C_%253BR3abY8DqeE5lsM%252Cv_eo2Z5_x-JPsM%252C_%253B5AxkS_ExLtVeoM%252CNsTbcpCRzPSw0M%252C_%253BryzRrO2CNuSk5M%252CcZZqu6rBKQeZ6M%252C_%253BL1YybatSpW8SBM%252CsAPHXrAlw2gFEM%252C_%253BOmUm1YDx-nlnOM%252CHGMFJl3Le10-0M%252C_%253BtmU-F6Ge17n_VM%252CUZfobmsGPxfs6M%252C_%253B6gXdvyFmubeuaM%252CQ6Mzg8CsRjL3vM%252C_%253BiXYlXa8YYnpgSM%252C_aH_PojxW9PQvM%252C_%253Bbh2zATaW3v00dM%252CtDQRG05iicdjiM%252C_%253B5MCJhOzIAlSC2M%252CZYErZ-zrFLO3vM%252C_%253Bw9IJBDVwq11V-M%252CLO_ACy4dT2eMnM%252C_%253BCceSE8qllbPFwM%252CQ6Mzg8CsRjL3vM%252C_%253BQ6fWfxkORFnJjM%252CH2K10-Xzbpcg1M%252C_%253BClMZO0751saKVM%252C9PSIR41FDyr_3M%252C_&usg=AI4_-kQPkGRAhcpz9yxf3woxjxdr_pnfPA&sa=X&ved=2ahUKEwiEn4W5lav1AhUhzDgGHc_TCbYQ9QF6BAgDEAE#imgrc=M31jS7h4OonTxM" alt="postman" width="60" height="60"/></a> &nbsp; 
+<a><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="postman" width="60" height="60"/></a> &nbsp; 
 </p>
  
 
